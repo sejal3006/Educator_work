@@ -1,0 +1,39 @@
+.employeeitem {
+    border: 1px solid #1f1c1c;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 10rem;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(155, 139, 139);
+    border-radius: 10px;
+}
+
+
+.employeeitem1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    width: 60%;
+    font-size: 15px;
+}
+
+.employeeitem1 p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.employeeitem-btn {
+    background-color: #230cf4;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.employeeitem-btn:hover {
+    background-color: #3430a1d2;
+}

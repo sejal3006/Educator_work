@@ -1,0 +1,23 @@
+.rightbox>h2 {
+    margin: 2rem 15rem;
+    font-size: 30px;
+}
+
+.rightbox{
+    /* border: 2px solid black; */
+}
+
+#rightboxbtn{
+    margin: 1rem 10rem;
+    margin-left: 300px;
+}
+
+.rightbox-average{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2rem;
+    color: rgb(38, 209, 19);
+    background-color: grey;
+    width: 70%;
+    margin-left: 25%;
+}
